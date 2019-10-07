@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "starwars/syphadias/vehicles/all_terrain_megacaliber_six/atm6_glass"
+	"$bumpmap" "starwars/syphadias/vehicles/all_terrain_megacaliber_six/atm6_head_n"
+	"$detail" "starwars/syphadias/vehicles/all_terrain_megacaliber_six/atm6_head_d"
+	"$detailscale" 		"1"
+	"$detailblendfactor" 	"0.81"
+	"$detailblendmode" 	"0"
+	
+	"$selfillum"		"1"
+   	"$selfillummask"	"starwars/syphadias/vehicles/all_terrain_megacaliber_six/atm6_glass_s"
+}

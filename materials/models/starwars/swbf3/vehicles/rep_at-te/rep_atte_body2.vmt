@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/starwars\swbf3\vehicles\rep_at-te/rep_atte_body2"
+	"$phongexponenttexture"  "models/starwars\swbf3\vehicles\rep_at-te/rep_atte_body2_exp"
+}

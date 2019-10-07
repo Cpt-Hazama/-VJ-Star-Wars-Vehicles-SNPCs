@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "helios/veteran/327/pauldron"
+$phong 1
+$phongboost 6
+$phongaldedotint 2
+$phongresnelranges [.5 .5 .5]
+$model 1
+$halflambert 1
+$nocull 1
+}
